@@ -51,3 +51,9 @@ After training, the model achieved approximately **73% accuracy** on the validat
   or
   ```pip install - r requirements-inference.txt```
 - For inference put your desired image in the 'new' directory under the name 'img.jpg' and then run the inference,ipynb file. Last cell will give the predicted label
+
+---
+
+## Submitted by
+- Antriksh Arya 2023UIC3527
+- Yash Goel 2023UIC3582
